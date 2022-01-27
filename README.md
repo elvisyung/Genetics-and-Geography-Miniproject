@@ -17,7 +17,7 @@ Principles Applied: PCA and tSNE <br />
 7) Using Pandas to create dataframes and saving data
 8) Aded population labels to matrices using the panel files collected 
 9) Used google colab to visualise data by using pandas, sklearn, matplotlib and altair 
-10) Ran additional data through tSNE for alternative visualisations 
+10) Ran additional data through tSNE for alternative visualisations
 
 ## Google Colab Notebook:
 https://colab.research.google.com/drive/11W2sHl7FyIkU8wDF3Q92IpPCZ2qSrKzI?usp=sharing
