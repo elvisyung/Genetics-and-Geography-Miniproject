@@ -20,4 +20,5 @@ Experimental precedures:
 9) Used google colab to visualise data by using pandas, sklearn, matplotlib and altair 
 10) Ran additional data through tSNE for alternative visualisations 
 
-Google Colab Notebook: https://colab.research.google.com/drive/11W2sHl7FyIkU8wDF3Q92IpPCZ2qSrKzI?usp=sharing
+## Google Colab Notebook:
+https://colab.research.google.com/drive/11W2sHl7FyIkU8wDF3Q92IpPCZ2qSrKzI?usp=sharing
