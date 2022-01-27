@@ -3,7 +3,7 @@ Mini-project bioinformatic project applying PCA on vcf files obtained through th
 
 Project was inspired by a Nature published article on understanding the genetic structure of human population by running PCA on genetic disease and geography data. Paper: https://www.nature.com/articles/nature07331
 
-Languages Used: python, google colab <br />
+Languages Used: python, bash, google colab <br />
 Packages Used: pandas, scikit-learn, altair, numpy, pysam and matplotlib <br />
 Principles Applied: PCA and tSNE <br />
 
