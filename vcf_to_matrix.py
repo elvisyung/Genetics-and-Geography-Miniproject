@@ -21,9 +21,7 @@ with VariantFile(vcf_filename) as vcf_reader:
         if counter % 4944 == 0:
             print(counter)
             print(f'{round(100 * counter / 494328)}%')
-        # if counter >= 10000:
-            # break
-
+    
 with open(panel_filename) as panel_file:
     labels = {} # {sample_id: population_code}
     for line in panel_file:
@@ -49,3 +47,4 @@ df = pd.DataFrame(matrix, columns=variant_ids, index=samples)
 df['Population code'] = df.index.map(labels)
 df.to_csv("matrix.csv") # SNPs as Columns and Samples as rows 
 
+# end
