@@ -1,5 +1,5 @@
-# Genetics and Geography Miniproject
-Mini-project bioinformatic project applying PCA on vcf files obtained through the international genome sample resource site. Furthermore, obtained population data to better visualise genes and geography. Visualisation of final graphs are present in google colab link.    
+# Genetics and Geography Miniproject (Self Directed)
+Mini-project bioinformatic project applying PCA on vcf files obtained through the international genome sample resource site. Furthermore, obtained population data to better visualise genes and geography. Visualisation of final graphs are presented in google colab. Miniproject was self directed and motivated, hopefully to engage in utilizing real world data to visualizea and apply concepts pertaining to bioinformatics/computational biology. 
 
 Project was inspired by a Nature published article on understanding the genetic structure of human population by running PCA on genetic disease and geography data. Paper: https://www.nature.com/articles/nature07331
 
